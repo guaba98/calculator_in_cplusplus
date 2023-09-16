@@ -1,6 +1,9 @@
 # calculator_in_cplusplus
 c++로 간단한 계산기 만들기
 
+### 영상 참고 공부 블로그
+https://giveme-happyending.tistory.com/212
+
 ### 개발환경
 - 운영체제: Window 10 64 bit
 - 개발언어: C++ 
