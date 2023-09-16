@@ -1,6 +1,5 @@
 # calculator_in_cplusplus
 c++로 간단한 계산기 만들기
----
 
 ### 영상 정리 공부한 블로그 링크
 - https://giveme-happyending.tistory.com/212
